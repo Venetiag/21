@@ -1,0 +1,40 @@
+{
+    "version": "1.1",
+    "data": [
+        {
+            "title": "government planning and control",
+            "paragraphs": [
+                {
+                    "context": "AUTONOMOUS vehicles may be on UK roads in the near future, although industry experts are warning \"technological hurdles\" could slow this down. Last year, the UK became the first country to green light self-driving cars on motorways after the Department for Transport announced it would regulate the vehicles at slow speeds. The cars would be limited to 37mph or 60km/h, with the Government also saying it was working on specific wording to update the Highway Code for the safe use of self-driving vehicle systems. [ Plan, Decision] (23 January 2022)",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 177,
+                                    "text": "the Department for Transport announced it would regulate the vehicles at slow speeds. The cars would be limited to 37mph or 60km/h, safe use of self-driving vehicle systems."
+                                }
+                            ],
+                            "question": "What are the regulations on self-driving cars in the UK?",
+                            "id": "q1"
+                        }
+                    ]
+                },
+                {
+                    "context": "The imminent launch of driverless cars on roads in Milton Keynes has been widely reported in the last few days. It is noteworthy that the CEO of the tech company involved described the trial scheme as \"driverless but not autonomous.\" Even so, it is likely that this year we will see significant development of the law governing autonomous driving on roads in the UK. For a start, the Law Commission is due to publish its final, consolidated report on the subject in the coming weeks. We expect to see it make recommendations for new legislation which could form a key theme of the Queen's Speech later in the spring. A second project which will be taken forward this year is the DfT's proposed authorising of ALKS - automated lane keeping systems - initially at moderate speeds and on defined motorways only. Further emphasis of the importance of these matters can be found in a Downing Street press release issued on 31 December, marking the anniversary of the UK/EU Trade & Co-operation Agreement, that talks of \"enhancing Britain's potential as a world leader in the Future of Transport, including autonomous maritime vessels, self-driving cars and drones and modernising outdated vehicle standards\". That last phrase is one of a suite of topics addressed by the DfT's Future of Transport regulatory review, on which consultation closed in November. It is almost certain that the progress of the review will be closely linked to the Law Commission's outputs. [ Plan, Decision] (10 Jan 2022)",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 34,
+                                    "text": "Milton Keynes"
+                                }
+                            ],
+                            "question": "Where can driverless cars be found?",
+                            "id": "q2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
